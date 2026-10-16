@@ -1,1 +1,1 @@
-# Lab-Algoritmos
+# Laboratório-Algoritmos
